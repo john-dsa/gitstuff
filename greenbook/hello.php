@@ -9,8 +9,9 @@
     </head>
     <body>
         <div>
-            <h1>Hello There!</h1>
-            
+            <?php
+            echo '<p>Hello world!</p>';
+            ?>
         </div>
     </body>
 </html>
